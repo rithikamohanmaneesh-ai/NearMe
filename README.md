@@ -100,7 +100,7 @@ nekkanamalia.html
 ```
 
 ## OUTPUT
-![Uploading Screenshot (29).png…]()
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/f9c1101f-2086-45b2-930e-dd9f7370b55e" />
 ![alt text](<Screenshot (30).png>)
 ![alt text](<Screenshot (31).png>)
 ![alt text](<Screenshot (32).png>)
