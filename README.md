@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 9/12/25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -100,6 +100,7 @@ nekkanamalia.html
 ```
 
 ## OUTPUT
+![Uploading Screenshot (29).png…]()
 ![alt text](<Screenshot (30).png>)
 ![alt text](<Screenshot (31).png>)
 ![alt text](<Screenshot (32).png>)
