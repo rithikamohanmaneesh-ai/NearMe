@@ -101,10 +101,12 @@ nekkanamalia.html
 
 ## OUTPUT
 <img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/f9c1101f-2086-45b2-930e-dd9f7370b55e" />
-![alt text](<Screenshot (30).png>)
-![alt text](<Screenshot (31).png>)
-![alt text](<Screenshot (32).png>)
-![alt text](<Screenshot (33).png>)
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/ecd7cb87-9de1-4325-b7fc-70b8c7fa6d71" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/845e02bc-606e-41a7-b552-b7e28be0ca09" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/a869b7f7-7f15-40b3-a45f-c9d1937c9523" />
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/4e8b22c9-1980-4541-8941-b784ee1cb080" />
+
+
 
 
 
