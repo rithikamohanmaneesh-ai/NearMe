@@ -25,10 +25,85 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
+map.html
+<html>
+    <head>
+        <title>City Map</title>
+    </head>
+    <body align="center">
+        <h1><font color="darkblue">vaniyambadi</font></h1>
+        <h3><font color="blue">Rithika (25008794)</font></h3>
+        <br>
 
+        adyar.html
+
+        html>
+    <head>
+        <title>adyar</title>
+    </head>
+    <body bgcolor="#4895EF" align="center">
+        <h1>vaniyambadi</h1>
+        <h3>adyar</h3>
+        <hr>
+        <font size="5">
+     indian chain of pure vegetarian restaurants and sweet shops headquartered in Chennai, offering a wide array of South Indian, North Indian, and Chinese dishes, as well as a variety of traditional sweets and savories. 
+        </font> 
+    </body>
+
+    indian.html
+    <html>
+    <head>
+        <title>indian oil</title>
+    </head>
+    <body bgcolor="#FF758F" align="center">
+        <h1>vaniyambadi</h1>
+        <h3>indian oil</h3>
+        <hr>
+        <font size="5">
+        Indian multinational oil and gas company and a Maharatna public sector undertaking under the ownership of the Government of India. It is the country's flagship energy major, operating across the entire hydrocarbon value chain. 
+        </font> 
+    </body>
+</html>
+
+   bharatmahal.html
+
+   <html>
+    <head>
+        <title>mahal</title>
+    </head>
+    <body bgcolor="#FFFF90" align="center">
+        <h1>vaniyambadi</h1>
+        <h3>bharatmahal</h3>
+        <hr>
+        <font size="5">
+        Bharat Mahal" most commonly refers to a wedding venue/banquet hall, with several locations in Tamil Nadu, India, and a palace hotel in Jaipur. 
+
+    </body>
+</html>
+
+nekkanamalia.html
+<html>
+    <head>
+        <title>waterfall</title>
+    </head>
+    <body bgcolor="#79b791" align="center">
+        <h1>vaniyambadi</h1>
+        <h3>waterfall</h3>
+        <hr>
+        <font size="5">
+         Nekkanamalia waterfall natural tourist attraction located in Vaniyambadi, Tamil Nadu, near the border of Tamil Nadu and Andhra Pradesh. It is known for its natural beauty and is a popular spot for nature lovers and trekkers, especially during the rainy season when water flow is good. 
+        </font> 
+    </body>
+</html>
+
+```
 
 ## OUTPUT
-
+![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot (31).png>)
+![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (33).png>)
 
 
 
